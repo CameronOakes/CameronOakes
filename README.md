@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mapple](https://github.com/CameronOakes/Mapple)
 
-- 👯 I’m looking for people to collaborate with **Any project, preferably on the Ruby on Rails framework!**
+- 👯 I’m looking for people to collaborate on **Any project, preferably on the Ruby on Rails framework!**
 
 - 📫 How to reach me **cameronoakes@outlook.com**
 
