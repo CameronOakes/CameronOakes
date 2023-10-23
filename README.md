@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron</h1>
 <h3 align="center">A Junior Web Developer with a passion for learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronoakes&label=Profile%20views&color=0e75b6&style=flat" alt="cameronoakes" /> </p>
-
 - 🔭 I’m currently working on [Mapple](https://github.com/CameronOakes/Mapple)
 
 - 👯 I’m looking for people to collaborate on **Any project, preferably on the Ruby on Rails framework!**
