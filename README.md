@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron</h1>
 <h3 align="center">A Junior Web Developer with a passion for learning</h3>
 
-- 🔭 I’m currently working on [Mapple](https://github.com/CameronOakes/Mapple)
-
-- 👯 I’m looking for people to collaborate on **Any project, preferably on the Ruby on Rails framework!**
-
 - 📫 How to reach me **cameronoakes@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
